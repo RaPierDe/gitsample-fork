@@ -46,6 +46,9 @@ public class Calculator {
 		new Square();
 	}
 
+	/**
+	 * Another info on some method
+	 */
 	private void calculate(String cmdName) {
 		float curValue;
 		float newValue = 0;
